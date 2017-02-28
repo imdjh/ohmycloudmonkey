@@ -1,0 +1,1 @@
+FROM cloudstack/cloudstack-cloudmonkey
